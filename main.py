@@ -14,8 +14,8 @@ def max(a,b,c):
       mx=c
   return mx
 
-x = int(input())
 y = int(input())
+z = int(input())
 z = int(input())
 
 m = max(x,y,z)
