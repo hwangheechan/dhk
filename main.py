@@ -20,3 +20,5 @@ z = int(input())
 
 m = max(x,y,z)
 print(m)
+
+//여기에 코드를 추가했으면 좋겠습니다 ㅎㅎ
