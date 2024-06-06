@@ -1,3 +1,4 @@
 print("Hi!")
 print("hello")
 괄호안에 ""이 없어서 수정함. string의 경우 "문자열" 의 형태로 해주어야함
+sdf
